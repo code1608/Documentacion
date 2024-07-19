@@ -1,2 +1,2 @@
-# documentaci-n
+# documentacion
 Aquí encontraras la documentación.
